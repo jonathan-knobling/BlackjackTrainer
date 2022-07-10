@@ -1,0 +1,5 @@
+C:\Users\happy\Desktop\GitHub\BlackjackTrainer\BlackjackTrainer\obj\Debug\net6.0\BlackjackTrainer.csproj.AssemblyReference.cache
+C:\Users\happy\Desktop\GitHub\BlackjackTrainer\BlackjackTrainer\obj\Debug\net6.0\BlackjackTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\happy\Desktop\GitHub\BlackjackTrainer\BlackjackTrainer\obj\Debug\net6.0\BlackjackTrainer.AssemblyInfoInputs.cache
+C:\Users\happy\Desktop\GitHub\BlackjackTrainer\BlackjackTrainer\obj\Debug\net6.0\BlackjackTrainer.AssemblyInfo.cs
+C:\Users\happy\Desktop\GitHub\BlackjackTrainer\BlackjackTrainer\obj\Debug\net6.0\BlackjackTrainer.csproj.CoreCompileInputs.cache
